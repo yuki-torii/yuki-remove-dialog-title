@@ -1,7 +1,7 @@
 {
   "name": "yuki-remove-dialog-title",
   "description": "A npm project",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "limichange <limichange@hotmail.com>",
   "private": true,
   "scripts": {
@@ -9,10 +9,8 @@
     "lint": "eslint ."
   },
   "main": "index.js",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "standard": {
     "globals": []
   },
