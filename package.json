@@ -3,7 +3,6 @@
   "description": "A npm project",
   "version": "0.1.1",
   "author": "limichange <limichange@hotmail.com>",
-  "private": true,
   "scripts": {
     "test": "exit 0",
     "lint": "eslint ."
