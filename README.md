@@ -7,9 +7,14 @@
 ## Install
 ```bash
 $ npm i --save yuki-remove-dialog-title
+# or
+$ yarn add yuki-remove-dialog-title
 ```
 
 ## Usage
+```js
+import 'yuki-remove-dialog-title'
+```
 
 ## License
 MIT © [Limichange](https://github.com/limichange)
