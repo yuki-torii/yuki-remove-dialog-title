@@ -1,7 +1,7 @@
 {
   "name": "yuki-remove-dialog-title",
   "description": "A npm project",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "limichange <limichange@hotmail.com>",
   "scripts": {
     "test": "exit 0",
