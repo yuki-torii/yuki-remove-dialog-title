@@ -8,6 +8,7 @@
     "test": "exit 0",
     "lint": "eslint ."
   },
+  "main": "index.js",
   "dependencies": {
   },
   "devDependencies": {
