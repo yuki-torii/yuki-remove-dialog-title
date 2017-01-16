@@ -1,0 +1,26 @@
+{
+  "name": "yuki-remove-dialog-title",
+  "description": "A npm project",
+  "version": "0.1.0",
+  "author": "limichange <limichange@hotmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "exit 0",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "standard": {
+    "globals": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuki-torii/yuki-remove-dialog-title.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuki-torii/yuki-remove-dialog-title/issues"
+  },
+  "homepage": "https://github.com/yuki-torii/yuki-remove-dialog-title#readme"
+}
